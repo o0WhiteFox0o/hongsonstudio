@@ -1,0 +1,78 @@
+{
+  "headline": "What We Do",
+  "subheadline": "We build at the intersection of creative vision, technical artistry, and software engineering — delivering high-impact digital experiences and systems.",
+  "categories": [
+    {
+      "id": "creative-3d",
+      "title": "Creative Production & 3D",
+      "description": "High-fidelity 3D modeling, technical art, animation, and visual look development engineered for real-time engines and modern digital media.",
+      "icon": "3d",
+      "services": [
+        "Real-time 3D Asset Pipelines",
+        "Technical Art & Custom Shaders",
+        "Cinematic Visuals & VFX",
+        "Environment & Character Design"
+      ]
+    },
+    {
+      "id": "software-development",
+      "title": "Software Development & Digital Products",
+      "description": "Robust software architecture, modern reactive web applications, interactive platforms, and scalable digital products built to last.",
+      "icon": "software",
+      "services": [
+        "Full-stack Web & Mobile Development",
+        "WebGL & Three.js Creative Development",
+        "Custom Creative Tooling & Automation",
+        "Scalable Cloud Backend & APIs"
+      ]
+    },
+    {
+      "id": "interactive-experiences",
+      "title": "Interactive Experiences",
+      "description": "Dynamic web experiences, interactive brand showcases, immersive multi-sensory exhibits, and gamified digital spaces.",
+      "icon": "interactive",
+      "services": [
+        "Brand Experience Portals",
+        "Interactive Digital Installations",
+        "Gamified Experiences & Quests",
+        "Virtual Showrooms & Product Demos"
+      ]
+    },
+    {
+      "id": "vr-ar",
+      "title": "VR / AR & Spatial Computing",
+      "description": "Next-generation immersive computing for enterprise training, architectural visualization, and cutting-edge head-mounted displays.",
+      "icon": "vr",
+      "services": [
+        "Virtual Reality (VR) Training & Simulations",
+        "Augmented Reality (AR) Product Visualization",
+        "Spatial Computing & Mixed Reality",
+        "WebXR Cross-platform Experiences"
+      ]
+    },
+    {
+      "id": "simulation",
+      "title": "Simulation & Systems",
+      "description": "Physics simulations, digital twin representations, procedural generation pipelines, and complex data-driven visualizations.",
+      "icon": "simulation",
+      "services": [
+        "Physics-based Realtime Simulation",
+        "Digital Twins & Industrial Visualization",
+        "Procedural 3D Generation Systems",
+        "Real-time Telemetry & Data Dashboards"
+      ]
+    },
+    {
+      "id": "educational-tech",
+      "title": "Educational Technology",
+      "description": "Interactive learning software, gamified educational modules, and simulation-based training tools for schools and enterprises.",
+      "icon": "education",
+      "services": [
+        "Gamified Learning Platforms",
+        "Simulation-based Interactive Lessons",
+        "Institutional Training Simulators",
+        "Interactive Curriculum Software"
+      ]
+    }
+  ]
+}

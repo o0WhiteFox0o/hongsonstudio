@@ -1,0 +1,34 @@
+{
+  "name": "Hồng Sơn Studio",
+  "tagline": "Creative Technology Studio",
+  "statement": "We turn ideas, information, and technology into compelling digital experiences and robust software systems.",
+  "identity": "We are an independent Creative Technology Studio combining high-fidelity 3D artistry, software engineering, and interactive design.",
+  "philosophy": [
+    "We believe that the most transformative digital products emerge when deep technical engineering and uncompromising artistic craft operate as one cohesive discipline.",
+    "Rather than treating technology merely as a delivery mechanism, we leverage code, custom shaders, and real-time graphics as primary expressive mediums.",
+    "We maintain a compact, agile team with high technical depth and cross-disciplinary capability — working closely with visionary leaders, institutions, and brands worldwide."
+  ],
+  "values": [
+    {
+      "title": "Cross-Disciplinary Depth",
+      "description": "Seamlessly bridging the gap between real-time 3D pipelines, technical art, and scalable software architecture."
+    },
+    {
+      "title": "Systems Over Gimmicks",
+      "description": "We engineer durable, reusable frameworks, clean codebases, and maintainable systems rather than disposable one-offs."
+    },
+    {
+      "title": "Uncompromising Performance",
+      "description": "Fluid 60fps real-time interactions, optimal asset pipelines, and meticulous engineering across all devices and screen sizes."
+    },
+    {
+      "title": "Focused Agility",
+      "description": "Direct collaboration with senior multidisciplinary practitioners, eliminating bureaucratic overhead and accelerating execution."
+    }
+  ],
+  "legalName": "HỒNG SƠN STUDIO CO., LTD.",
+  "taxId": "0318092831",
+  "legalRepresentative": "Hồng Sơn",
+  "established": "2023",
+  "website": "hongsonstudio.com"
+}

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "aetheria-spatial-experience",
+    "title": "Aetheria — Immersive WebGL Spatial Platform",
+    "client": "NextGen Media Labs",
+    "year": 2024,
+    "category": ["interactive", "3d", "creative"],
+    "media": {
+      "thumbnail": "",
+      "video": null
+    },
+    "technology": ["WebGL", "Three.js", "React", "GLSL Shaders", "WebAudio API"],
+    "problem": "The client needed a groundbreaking interactive web showroom to unveil an upcoming product line without requiring heavy app downloads or compromising graphical fidelity.",
+    "solution": "Engineered a custom lightweight 3D engine on top of Three.js and bespoke GLSL post-processing shaders, achieving 60fps rendering across desktop and mobile devices with progressive asset streaming.",
+    "outcome": "Over 350,000 unique interactive sessions in launch month with an average dwell time of 4.8 minutes, increasing customer pre-orders by 142%.",
+    "role": "Creative Direction, Technical Art & WebGL Engineering",
+    "deliverables": [
+      "Interactive 3D Web Application",
+      "Custom GLSL Shader Library",
+      "Asset Optimization & LOD Pipeline",
+      "Cross-device Performance Telemetry"
+    ]
+  },
+  {
+    "id": "neurosim-simulation-engine",
+    "title": "NeuroSim — Physics-Based Medical Simulation",
+    "client": "BioTech Innovations",
+    "year": 2024,
+    "category": ["simulation", "education", "software"],
+    "media": {
+      "thumbnail": "",
+      "video": null
+    },
+    "technology": ["Unity", "C#", "Compute Shaders", "React", "WebAssembly"],
+    "problem": "Traditional medical training relied on costly physical models with limited repeatability and no real-time telemetry on procedural accuracy.",
+    "solution": "Developed a high-precision physics simulation engine reproducing soft tissue mechanics and surgical instrument haptics, deployed via WebAssembly for frictionless browser access.",
+    "outcome": "Adopted by 12 medical institutions for surgical residency training, reducing preparation time by 35% while increasing procedural confidence scores.",
+    "role": "Simulation Architecture & Software Engineering",
+    "deliverables": [
+      "Real-time Soft Tissue Physics Engine",
+      "WebAssembly Web Simulator Portal",
+      "Instructor Analytics & Scoring Dashboard",
+      "Enterprise Cloud Deployment Architecture"
+    ]
+  },
+  {
+    "id": "chronos-ar-configurator",
+    "title": "Chronos — Real-time WebXR Product Configurator",
+    "client": "Vanguard Precision Gear",
+    "year": 2023,
+    "category": ["vr-ar", "interactive", "3d"],
+    "media": {
+      "thumbnail": "",
+      "video": null
+    },
+    "technology": ["WebXR", "Three.js", "Physically Based Rendering (PBR)", "WebRTC"],
+    "problem": "Complex bespoke hardware with thousands of customization configurations suffered from low conversion due to static 2D preview renders.",
+    "solution": "Created an instant-load WebXR augmented reality configurator with micro-surface metallic sheen shaders, dynamic environment lighting, and real-time AR room projection.",
+    "outcome": "Reduced product return rate by 28% and elevated user interaction time by 4x compared to traditional e-commerce galleries.",
+    "role": "Technical Art, 3D Pipeline & Frontend Architecture",
+    "deliverables": [
+      "WebXR Interactive Configurator",
+      "PBR Material System & Custom Shaders",
+      "Instant AR Quick-Look Integration",
+      "Parametric Part Configuration Engine"
+    ]
+  },
+  {
+    "id": "omniflow-digital-twin",
+    "title": "OmniFlow — Industrial Digital Twin & Data Viz",
+    "client": "LogiTech Systems",
+    "year": 2024,
+    "category": ["simulation", "software"],
+    "media": {
+      "thumbnail": "",
+      "video": null
+    },
+    "technology": ["React", "TypeScript", "Three.js", "WebSockets", "Kafka", "D3.js"],
+    "problem": "Industrial operators faced delayed incident response due to fragmented tabular data streams across multiple automated warehouses.",
+    "solution": "Built a synchronous 3D digital twin platform rendering thousands of concurrent robotic units and conveyor belts live with sub-second telemetry synchronization.",
+    "outcome": "Reduced operational downtime by 22% and allowed remote site managers to diagnose bottlenecks within seconds.",
+    "role": "Full-stack Software Engineering & 3D Visualization",
+    "deliverables": [
+      "Full 3D Facility Digital Twin UI",
+      "High-throughput WebSocket Streaming Client",
+      "Automated Alerting & Heatmap Visualizations",
+      "Multi-monitor Command Center View"
+    ]
+  },
+  {
+    "id": "eduquest-gamified-learning",
+    "title": "EduQuest — STEM Interactive Learning Suite",
+    "client": "Apex Education Global",
+    "year": 2023,
+    "category": ["education", "interactive", "software"],
+    "media": {
+      "thumbnail": "",
+      "video": null
+    },
+    "technology": ["Next.js", "Phaser.js", "Canvas2D", "Node.js", "PostgreSQL"],
+    "problem": "Low student engagement in secondary school STEM topics using conventional static e-learning materials.",
+    "solution": "Designed and engineered an episodic interactive gamification suite where students solve interactive physics, chemistry, and algorithmic puzzles directly in their browsers.",
+    "outcome": "Deployed to over 80,000 active students, showing a 47% increase in topic retention and 91% student completion rate.",
+    "role": "Game Design, Interactive Engineering & Educational Logic",
+    "deliverables": [
+      "Interactive Game Engine & Modular Levels",
+      "Teacher Assessment & Progress Tracking Portal",
+      "Cross-platform Web & Tablet Application",
+      "Adaptive Difficulty Feedback System"
+    ]
+  },
+  {
+    "id": "voxelcraft-procedural-pipeline",
+    "title": "VoxelCraft — Procedural World Engine & Tech Art",
+    "client": "Indie Horizon Studios",
+    "year": 2024,
+    "category": ["3d", "software", "creative"],
+    "media": {
+      "thumbnail": "",
+      "video": null
+    },
+    "technology": ["Rust", "Wasm", "WebGL 2.0", "GPU Instancing", "Noise Algorithms"],
+    "problem": "Generating infinite diverse natural terrains at runtime with dynamic destructibility while maintaining 60fps on consumer web browsers.",
+    "solution": "Architected a multithreaded procedural generation pipeline in Rust compiled to WebAssembly with GPU geometry instancing and chunk caching.",
+    "outcome": "Capable of rendering 100,000+ active chunks with seamless Level-of-Detail (LOD) transitions and zero stutter during traversal.",
+    "role": "Core Engine Architecture & Technical Art Pipeline",
+    "deliverables": [
+      "Rust / WebAssembly Terrain Generator",
+      "Custom GPU Chunk Mesher & Shaders",
+      "Procedural Biome & Flora Rules Engine",
+      "Interactive Sandbox Demonstration"
+    ]
+  }
+]

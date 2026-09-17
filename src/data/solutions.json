@@ -1,0 +1,81 @@
+{
+  "headline": "From Bespoke Services to Scalable Systems",
+  "subheadline": "We help ambitious organizations move beyond one-off agency deliverables into resilient digital systems, proprietary tooling, and compounding technology assets.",
+  "progression": [
+    { "stage": "SERVICE" },
+    { "stage": "SOLUTION" },
+    { "stage": "SYSTEM" },
+    { "stage": "PRODUCT" },
+    { "stage": "IP" }
+  ],
+  "solutions": [
+    {
+      "id": "interactive-spatial-framework",
+      "stage": "SYSTEM",
+      "title": "Realtime Spatial & WebGL Framework",
+      "description": "A reusable technical foundation for building high-fidelity 3D web showrooms, product configurators, and interactive brand portals with minimal load time and maximum framerate stability.",
+      "capabilities": [
+        "Progressive Asset Streaming",
+        "PBR Shader Preset Library",
+        "Multi-device Responsive Controls",
+        "Telemetry & Engagement Analytics"
+      ],
+      "targetAudience": [
+        "Automotive & Industrial Brands",
+        "Luxury & Consumer Goods",
+        "Digital Exhibition Curators"
+      ]
+    },
+    {
+      "id": "industrial-digital-twin-core",
+      "stage": "SOLUTION",
+      "title": "Digital Twin & Telemetry Suite",
+      "description": "An end-to-end framework connecting live IoT sensors, spatial 3D maps, and operator dashboards into a cohesive real-time digital representation of physical operations.",
+      "capabilities": [
+        "WebSocket & MQTT Data Ingestion",
+        "Real-time Spatial Coordinate Sync",
+        "Predictive Incident Highlighting",
+        "Role-based Operator Control"
+      ],
+      "targetAudience": [
+        "Smart Manufacturing & Logistics",
+        "Renewable Energy Infrastructure",
+        "Enterprise Facilities Operations"
+      ]
+    },
+    {
+      "id": "edutech-simulation-engine",
+      "stage": "PRODUCT",
+      "title": "Simulation-Based Learning Core",
+      "description": "A modular interactive simulation platform designed for high-stakes professional and vocational training, complete with scenario builder and compliance scoring.",
+      "capabilities": [
+        "Deterministic Physics Simulator",
+        "Modular Scenario Scripting",
+        "Granular Action Telemetry",
+        "LMS / SCORM Enterprise Integration"
+      ],
+      "targetAudience": [
+        "Healthcare & Medical Training",
+        "Technical & Vocational Colleges",
+        "Defense & Aerospace Education"
+      ]
+    },
+    {
+      "id": "procedural-art-tooling",
+      "stage": "IP",
+      "title": "Procedural World & Shader IP",
+      "description": "Proprietary procedural algorithms, noise functions, and GPU instancing shaders capable of generating dense, high-fidelity real-time environments on lightweight hardware.",
+      "capabilities": [
+        "Cross-platform WebAssembly Core",
+        "GPU Accelerated Meshing",
+        "Dynamic Biome Synthesis",
+        "Zero Server-side Rendering Cost"
+      ],
+      "targetAudience": [
+        "Game Development Studios",
+        "Virtual World Creators",
+        "Architectural Simulation Teams"
+      ]
+    }
+  ]
+}
